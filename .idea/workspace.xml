@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="bb5f17fd-f52b-4d9d-ab3b-532e3acaf6e0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaFXApplication" />
+        <option value="Interface" />
+        <option value="FxmlFile" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="D:\maven\apache-maven-3.3.9IDEA\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="enabledProfiles">
+      <list>
+        <option value="jdk-1.8" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="#JAVA_HOME" />
+  </component>
+  <component name="ProjectId" id="1Y4OExW6sYzHGSBZzXCE9ReIgag" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JSP" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../dubbo" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\IDEAWoekspace\springbootvip\src\main\java\cn\enjoy\utils" />
+      <recent name="F:\IDEAWoekspace\springbootvip\src\main\java\cn\enjoy\controller" />
+      <recent name="F:\IDEAWoekspace\springbootvip\src\main\resources\templates" />
+      <recent name="F:\IDEAWoekspace\springbootvip\src\main\webapp\WEB-INF" />
+      <recent name="F:\IDEAWoekspace\springbootvip\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.App">
+    <configuration name="SpringRedisTest.testRedis" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springbootvip" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.enjoy.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.enjoy.test.SpringRedisTest" />
+      <option name="METHOD_NAME" value="testRedis" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.testApp" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springbootvip" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.enjoy.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.enjoy.test.UserTest" />
+      <option name="METHOD_NAME" value="testApp" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserTest.testFindUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="springbootvip" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoy.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.enjoy.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.enjoy.test.UserTest" />
+      <option name="METHOD_NAME" value="testFindUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="generator" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="mybatis-generator:generate" />
+                <option value="-e" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="App" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="springbootvip" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.enjoy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="cn.enjoy.App" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.UserTest.testApp" />
+      <item itemvalue="JUnit.UserTest.testFindUser" />
+      <item itemvalue="JUnit.SpringRedisTest.testRedis" />
+      <item itemvalue="Maven.generator" />
+      <item itemvalue="Spring Boot.App" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.App" />
+        <item itemvalue="JUnit.SpringRedisTest.testRedis" />
+        <item itemvalue="JUnit.UserTest.testFindUser" />
+        <item itemvalue="JUnit.UserTest.testApp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="bb5f17fd-f52b-4d9d-ab3b-532e3acaf6e0" name="Default Changelist" comment="" />
+      <created>1582198291980</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582198291980</updated>
+      <workItem from="1582198294766" duration="213000" />
+      <workItem from="1582203610414" duration="66000" />
+      <workItem from="1582203770468" duration="79000" />
+      <workItem from="1582203862842" duration="2283000" />
+      <workItem from="1582206518363" duration="331000" />
+      <workItem from="1582251765418" duration="921000" />
+      <workItem from="1582252704022" duration="21178000" />
+      <workItem from="1584507050571" duration="145000" />
+      <workItem from="1584591604346" duration="634000" />
+      <workItem from="1584676916471" duration="20000" />
+      <workItem from="1584704974490" duration="67000" />
+      <workItem from="1585484632273" duration="674000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="176" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582253622976">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="176" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1582253622976" />
+    <state x="568" y="350" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1582252459132">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="568" y="350" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1440.920@0.0.1440.920" timestamp="1582252459132" />
+    <state x="302" y="116" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor" timestamp="1582252455705">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="302" y="116" key="#com.intellij.openapi.projectRoots.ui.ProjectJdksEditor/0.0.1440.920@0.0.1440.920" timestamp="1582252455705" />
+    <state x="455" y="189" key="EnvironmentVariablesDialog" timestamp="1582252413548">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="455" y="189" key="EnvironmentVariablesDialog/0.0.1440.920@0.0.1440.920" timestamp="1582252413548" />
+    <state x="501" y="216" key="FileChooserDialogImpl" timestamp="1584705036667">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="501" y="216" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1584705036667" />
+    <state width="1397" height="440" key="GridCell.Tab.0.bottom" timestamp="1585484679065">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="440" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1585484679065" />
+    <state width="1397" height="440" key="GridCell.Tab.0.center" timestamp="1585484679065">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="440" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1585484679065" />
+    <state width="1397" height="440" key="GridCell.Tab.0.left" timestamp="1585484679065">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="440" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1585484679065" />
+    <state width="1397" height="440" key="GridCell.Tab.0.right" timestamp="1585484679065">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="440" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1585484679065" />
+    <state width="1397" height="440" key="GridCell.Tab.1.bottom" timestamp="1585484679068">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="440" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1585484679068" />
+    <state width="1397" height="440" key="GridCell.Tab.1.center" timestamp="1585484679066">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="440" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1585484679066" />
+    <state width="1397" height="440" key="GridCell.Tab.1.left" timestamp="1585484679066">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="440" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1585484679066" />
+    <state width="1397" height="440" key="GridCell.Tab.1.right" timestamp="1585484679067">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="440" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1585484679067" />
+    <state width="1397" height="80" key="GridCell.Tab.2.bottom" timestamp="1582294127621">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="80" key="GridCell.Tab.2.bottom/0.0.1440.920@0.0.1440.920" timestamp="1582294127621" />
+    <state width="1397" height="80" key="GridCell.Tab.2.center" timestamp="1582294127621">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="80" key="GridCell.Tab.2.center/0.0.1440.920@0.0.1440.920" timestamp="1582294127621" />
+    <state width="1397" height="80" key="GridCell.Tab.2.left" timestamp="1582294127621">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="80" key="GridCell.Tab.2.left/0.0.1440.920@0.0.1440.920" timestamp="1582294127621" />
+    <state width="1397" height="80" key="GridCell.Tab.2.right" timestamp="1582294127621">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="1397" height="80" key="GridCell.Tab.2.right/0.0.1440.920@0.0.1440.920" timestamp="1582294127621" />
+    <state x="368" y="158" key="NewModule_or_Project.wizard" timestamp="1584705027720">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="368" y="158" key="NewModule_or_Project.wizard/0.0.1440.920@0.0.1440.920" timestamp="1584705027720" />
+    <state x="308" y="123" key="Registry" timestamp="1582284146221">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="308" y="123" key="Registry/0.0.1440.920@0.0.1440.920" timestamp="1582284146221" />
+    <state x="222" y="70" key="SettingsEditor" timestamp="1582283932810">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="222" y="70" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1582283932810" />
+    <state x="409" y="284" key="com.intellij.ide.util.TipDialog" timestamp="1584704975385">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="409" y="284" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1584704975385" />
+    <state x="377" y="211" key="run.anything.popup" timestamp="1582204390859">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="377" y="211" key="run.anything.popup/0.0.1440.920@0.0.1440.920" timestamp="1582204390859" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1582279663799">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1582279663799" />
+  </component>
+</project>
